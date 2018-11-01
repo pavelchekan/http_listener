@@ -1,0 +1,4 @@
+aiobotocore==0.9.4
+aiohttp==3.4.4
+pydub==0.23.0
+requests==2.20.0
